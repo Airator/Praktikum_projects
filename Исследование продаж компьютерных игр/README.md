@@ -11,8 +11,9 @@
 5. Проверка гипотез.  
 
 ### Используемые инструменты и библиотеки:  
-pandas  
-numpy  
-matplotlib   
-seaborn  
+*pandas*  
+*numpy*  
+*matplotlib*   
+*seaborn*  
+*scipy*
  
