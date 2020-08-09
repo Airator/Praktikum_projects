@@ -17,8 +17,8 @@ User_Score Ч оценка пользователей (максимум 10)
 Rating Ч рейтинг от организации ESRB (англ. Entertainment Software Rating Board). Ёта ассоциаци€ определ€ет рейтинг компьютерных игр и присваивает им подход€щую возрастную категорию. 
 
 ### »спользованы следующие инструменты и библиотеки:  
-pandas
-numpy 
-matplotlib 
-seaborn 
+pandas  
+numpy  
+matplotlib   
+seaborn  
  
